@@ -15,8 +15,7 @@
    * [Usage](#usage)
 8. [Project Structure](#8-project-structure)
 9. [Future Enhancements](#9-future-enhancements)
-10. [Contributing](#10-contributing)
-11. [License](#11-license)
+
 
 ---
 
@@ -165,17 +164,4 @@ Dynamic-E-commerce-Price-Optimizer/
 * User Interface Dashboard
 * Production Scalability
 
-## 10. Contributing
-
-Contributions are welcome! Fork the repo, submit pull requests, or open issues.
-
-## 11. License
-
-This project is licensed under the MIT License. See LICENSE file for details.
-
----
-
-## Sources
-
-*Add any dataset or reference sources here.*
 
